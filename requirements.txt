@@ -1,5 +1,5 @@
 # Advanced Number Base Converter - Python Dependencies
-# Author: Arthur Frank
+# Author: Frank Arthur
 # Version: 2.0.0
 
 # Core dependencies
