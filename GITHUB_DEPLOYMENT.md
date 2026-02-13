@@ -309,7 +309,7 @@ If you encounter issues:
 
 Your Advanced Number Base Converter is now on GitHub! 
 
-**Repository URL:** `https://github.com/Frank/advanced-number-base-converter`
+**Repository URL:** `https://github.com/ArthurFrank814/advanced-number-base-converter`
 
 **Author:** Arthur Frank  
 **Version:** 2.0.0
