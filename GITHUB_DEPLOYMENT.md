@@ -1,6 +1,6 @@
 # GitHub Deployment Guide - Advanced Number Base Converter
 
-**Author: Arthur Frank** | **Version: 2.0.0**
+**Author: Frank Arthur** | **GitHub: frank814** | **Version: 2.0.0**
 
 This guide will walk you through deploying the Advanced Number Base Converter to GitHub.
 
@@ -58,10 +58,10 @@ git commit -m "Initial commit: Advanced Number Base Converter v2.0.0 by Frank"
 
 ### Step 5: Connect to GitHub
 
-Using your GitHub username Frank:
+Using your GitHub username frank814:
 
 ```bash
-git remote add origin https://github.com/Frank/advanced-number-base-converter.git
+git remote add origin https://github.com/frank814/advanced-number-base-converter.git
 ```
 
 ### Step 6: Push to GitHub
@@ -309,9 +309,10 @@ If you encounter issues:
 
 Your Advanced Number Base Converter is now on GitHub! 
 
-**Repository URL:** `https://github.com/ArthurFrank814/advanced-number-base-converter`
+**Repository URL:** `https://github.com/frank814/advanced-number-base-converter`
 
-**Author:** Arthur Frank  
+**Author:** Frank Arthur  
+**GitHub:** frank814  
 **Version:** 2.0.0
 
 ---
@@ -325,4 +326,4 @@ Your Advanced Number Base Converter is now on GitHub!
 
 ---
 
-**Made with ❤️ by Arthur Frank**
+**Made with ❤️ by Frank Arthur**
