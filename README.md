@@ -26,7 +26,7 @@
 - [Command Line Arguments](#-command-line-arguments)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Author](#-Author)
+- [Author](#-author)
 
 ---
 
@@ -450,7 +450,7 @@ SOFTWARE.
 
 ---
 
-## 👨‍💻 Author
+###👨‍💻 Author
 
 **Frank Arthur**
 
