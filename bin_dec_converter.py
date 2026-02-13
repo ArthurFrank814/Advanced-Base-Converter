@@ -3,7 +3,7 @@
 Advanced Number Base Converter
 A professional tool for converting between decimal, binary, octal, hexadecimal, and other number systems.
 
-Author: Frank
+Author: Arthur Frank
 Version: 2.0.0
 
 Features:
@@ -37,7 +37,7 @@ except ImportError:
 HEX_DIGITS = "0123456789ABCDEF"
 VERSION = "2.0.0"
 AUTHOR = "Arthur Frank"
-GITHUB = "Frank"
+GITHUB = "https://github.com/ArthurFrank814"
 
 # Additional number base constants
 BASE_DIGITS = "0123456789ABCDEF"
@@ -1287,4 +1287,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+
     main()
