@@ -22,7 +22,7 @@
 - [Installation](#-installation)
 - [Examples](#-examples)
 - [Output Formats](#-output-formats)
-- [Command Line Arguments](#-command-line-arguments)
+- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
