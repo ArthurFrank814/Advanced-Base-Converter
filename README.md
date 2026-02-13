@@ -34,7 +34,7 @@
 
 The **Advanced Number Base Converter** is a sophisticated Python-based tool designed for educational and professional use. It enables users to seamlessly convert between different number systems, including decimal, binary, octal, hexadecimal, and any other base from 2 to 16.
 
-**Developed by Arthur Frank** - This tool combines powerful algorithms, comprehensive error handling, and a user-friendly interface to provide an exceptional number conversion experience. GitHub: [Frank](https://github.com/ArthurFrank814)
+**Developed by Arthur Frank** - This tool combines powerful algorithms, comprehensive error handling, and a user-friendly interface to provide an exceptional number conversion experience. GitHub: [Arthur Frank](https://github.com/ArthurFrank814)
 
 ### Key Capabilities
 
@@ -453,7 +453,7 @@ SOFTWARE.
 
 **Arthur Frank**
 
-- GitHub: [@Frank](https://github.com/frank486)
+- GitHub: [@Arthur Frank](https://github.com/ArthurFrank814)
 - Project: Advanced Number Base Converter
 - Version: 2.0.0
 
