@@ -1,6 +1,6 @@
 # Contributing to Advanced Number Base Converter
 
-**Author: Arthur Frank** | **Version: 2.0.0**
+**Author: Frank Arthur** | **GitHub: frank814** | **Version: 2.0.0**
 
 Thank you for your interest in contributing to the Advanced Number Base Converter! This document provides guidelines and instructions for contributing to this project.
 
@@ -176,7 +176,7 @@ If you need help contributing:
 1. Check existing documentation
 2. Search existing issues and discussions
 3. Create a new issue with your question
-4. Join our community discussions
+
 
 ## 🔐 Security
 
@@ -195,4 +195,4 @@ By contributing, you agree that your contributions will be licensed under the **
 
 **Thank you for contributing to Advanced Number Base Converter!**
 
-**Made with ❤️ by Arthur Frank**
+**Made with ❤️ by Frank Arthur**
