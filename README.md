@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
-![Author](https://img.shields.io/badge/author-Arthur%20ArthurFrank-purple.svg)
+![Author](https://img.shields.io/badge/author-Frank%20Arthur-purple.svg)
 
 **A professional tool for converting between decimal, binary, octal, hexadecimal, and other number systems.**
 
@@ -26,7 +26,7 @@
 - [Command Line Arguments](#-command-line-arguments)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Author](#)
+- [Author](#-author)
 
 ---
 
@@ -34,7 +34,7 @@
 
 The **Advanced Number Base Converter** is a sophisticated Python-based tool designed for educational and professional use. It enables users to seamlessly convert between different number systems, including decimal, binary, octal, hexadecimal, and any other base from 2 to 16.
 
-**Developed by Arthur Frank** - This tool combines powerful algorithms, comprehensive error handling, and a user-friendly interface to provide an exceptional number conversion experience. GitHub: [Arthur Frank](https://github.com/ArthurFrank814)
+**Developed by Frank Arthur** - This tool combines powerful algorithms, comprehensive error handling, and a user-friendly interface to provide an exceptional number conversion experience. GitHub: [frank814](https://github.com/frank814)
 
 ### Key Capabilities
 
@@ -116,7 +116,7 @@ The **Advanced Number Base Converter** is a sophisticated Python-based tool desi
 ### Method 1: Clone from GitHub
 
 ```bash
-git clone https://github.com/ArthurFrank814/advanced-number-base-converter.git
+git clone https://github.com/frank814/advanced-number-base-converter.git
 cd advanced-number-base-converter
 pip install -r requirements.txt
 ```
@@ -190,7 +190,8 @@ $ python bin_dec_converter.py
 ║                  Advanced Number Base Converter      ║
 ║                        Version 2.0.0                ║
 ╚══════════════════════════════════════════════════════╝
-║                    Author: Arthur Frank                  ║
+║                    Author: Frank Arthur                  ║
+║                  GitHub: frank814                   ║
 ╚══════════════════════════════════════════════════════╝
 
 Available Conversions:
@@ -426,7 +427,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Arthur Frank
+Copyright (c) 2024 Frank Arthur
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -451,9 +452,9 @@ SOFTWARE.
 
 ## 👨‍💻 Author
 
-**Arthur Frank**
+**Frank Arthur**
 
-- GitHub: [@Arthur Frank](https://github.com/ArthurFrank814)
+- GitHub: [@frank814](https://github.com/frank814)
 - Project: Advanced Number Base Converter
 - Version: 2.0.0
 
@@ -485,7 +486,7 @@ For questions, issues, or suggestions:
 
 <div align="center">
 
-**Made with ❤️ by Arthur Frank**
+**Made with ❤️ by Frank Arthur**
 
 [⬆ Back to Top](#-advanced-number-base-converter)
 
