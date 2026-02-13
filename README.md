@@ -20,13 +20,11 @@
 - [About](#-about)
 - [Features](#-features)
 - [Installation](#-installation)
-- [Usage](#-usage)
 - [Examples](#-examples)
 - [Output Formats](#-output-formats)
 - [Command Line Arguments](#-command-line-arguments)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Author](#-author)
 
 ---
 
