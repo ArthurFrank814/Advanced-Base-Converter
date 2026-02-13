@@ -36,7 +36,7 @@ Author: Frank
 Version: 2.0.0
     """,
     long_description_content_type="text/markdown",
-    url="https://github.com/Frank/advanced-number-base-converter",
+    url="https://github.com/frank814/advanced-number-base-converter",
     py_modules=["bin_dec_converter"],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
